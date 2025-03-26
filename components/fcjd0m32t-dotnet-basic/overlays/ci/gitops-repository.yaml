@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fcjd0m32t-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/fcjd0m32t-dotnet-basic-gitops
